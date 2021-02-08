@@ -1,0 +1,13 @@
+C:\Users\Brian\Source\Repos\ou-mis\homework-1-bgorishek\SaleTotal\Homework1\bin\Debug\netcoreapp3.1\Homework1.exe
+C:\Users\Brian\Source\Repos\ou-mis\homework-1-bgorishek\SaleTotal\Homework1\bin\Debug\netcoreapp3.1\Homework1.deps.json
+C:\Users\Brian\Source\Repos\ou-mis\homework-1-bgorishek\SaleTotal\Homework1\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.json
+C:\Users\Brian\Source\Repos\ou-mis\homework-1-bgorishek\SaleTotal\Homework1\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.dev.json
+C:\Users\Brian\Source\Repos\ou-mis\homework-1-bgorishek\SaleTotal\Homework1\bin\Debug\netcoreapp3.1\Homework1.dll
+C:\Users\Brian\Source\Repos\ou-mis\homework-1-bgorishek\SaleTotal\Homework1\bin\Debug\netcoreapp3.1\Homework1.pdb
+C:\Users\Brian\Source\Repos\ou-mis\homework-1-bgorishek\SaleTotal\Homework1\obj\Debug\netcoreapp3.1\Homework1.csprojAssemblyReference.cache
+C:\Users\Brian\Source\Repos\ou-mis\homework-1-bgorishek\SaleTotal\Homework1\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfoInputs.cache
+C:\Users\Brian\Source\Repos\ou-mis\homework-1-bgorishek\SaleTotal\Homework1\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfo.cs
+C:\Users\Brian\Source\Repos\ou-mis\homework-1-bgorishek\SaleTotal\Homework1\obj\Debug\netcoreapp3.1\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Source\Repos\ou-mis\homework-1-bgorishek\SaleTotal\Homework1\obj\Debug\netcoreapp3.1\Homework1.dll
+C:\Users\Brian\Source\Repos\ou-mis\homework-1-bgorishek\SaleTotal\Homework1\obj\Debug\netcoreapp3.1\Homework1.pdb
+C:\Users\Brian\Source\Repos\ou-mis\homework-1-bgorishek\SaleTotal\Homework1\obj\Debug\netcoreapp3.1\Homework1.genruntimeconfig.cache
